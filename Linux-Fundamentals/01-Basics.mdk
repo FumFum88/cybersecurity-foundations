@@ -1,0 +1,12 @@
+# Linux Basics
+
+## What it is
+Linux is an open-source operating system widely used in servers, cloud environments, and cybersecurity.
+
+## Commands practiced
+```bash
+pwd
+ls
+cd
+whoami
+uname -a

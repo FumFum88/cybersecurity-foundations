@@ -11,7 +11,6 @@ NTFS supports advanced security features such as Access Control Lists (ACLs), fi
 - C:\ProgramData – Stores application data shared between users.
 
 ## NTFS Permissions
-
 Common permission types:
 - Full Control  
 - Modify  
@@ -24,11 +23,9 @@ Permissions can be assigned to:
 - Groups  
 - Administrators  
 - SYSTEM  
-
 NTFS uses Access Control Lists (ACLs) to define who can access files and what actions they can perform.
 
 ## Common Commands Practiced
-
 ```powershell
 icacls C:\Users
 whoami /groups

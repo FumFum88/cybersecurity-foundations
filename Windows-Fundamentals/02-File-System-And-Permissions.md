@@ -22,7 +22,8 @@ Permissions can be assigned to:
 - Users  
 - Groups  
 - Administrators  
-- SYSTEM  
+- SYSTEM
+ 
 NTFS uses Access Control Lists (ACLs) to define who can access files and what actions they can perform.
 
 ## Common Commands Practiced
